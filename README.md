@@ -1,4 +1,4 @@
-theme_30
-========
+Ableton Projects
+================
 
-Ableton Live 9 Suite Project
+Ableton Live 9 Suite Projects
